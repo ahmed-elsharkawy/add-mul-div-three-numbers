@@ -1,0 +1,26 @@
+main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.result {
+  margin: 0px 10%;
+  padding: 10px 30px;
+  height: 300px;
+  background-color: antiquewhite;
+  font-size: 30px;
+  text-align: center;
+  line-height: 100px;
+  color: red;
+}
+
+.hide{
+  display: none;
+}
+
+.result div span{
+  color: black;
+}
